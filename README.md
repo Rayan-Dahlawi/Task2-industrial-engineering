@@ -29,7 +29,7 @@ Giving presentations, whether in major forums or in different meetings, and pres
 
 ## Design
 
-The wheels suspension system are designed [here](https://github.com/Rayan-Dahlawi/Week-3-Mechanical-Engineer).
+The wheels and suspension system are designed [here](https://github.com/Rayan-Dahlawi/Week-3-Mechanical-Engineer).
 
 ## Testing unit
 
